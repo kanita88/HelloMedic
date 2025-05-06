@@ -1,0 +1,35 @@
+# Fichiers système
+.DS_Store
+
+# Build
+build/
+DerivedData/
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# CocoaPods (si tu l’utilises)
+Pods/
+Podfile.lock
+
+# Carthage (si tu l’utilises)
+Carthage/
+
+# Archives
+*.xcarchive
+
+# Résultats des tests
+*.xcresult
+
+# Divers
+*.log
+*.orig
